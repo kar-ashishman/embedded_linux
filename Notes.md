@@ -10,4 +10,4 @@ Store Linaro unzip folder at a location
 Open .bashrc file add the following at the end
 export PATH=$PATH/:<location of the Linarofoler/bin>
 Save and exit.
-Verify by opening cmd and type gcc and press tab. should see linaro gcc distributions.
+Verify by opening cmd and type arm and press tab. should see linaro gcc distributions - arm-linux-gnueabi.
